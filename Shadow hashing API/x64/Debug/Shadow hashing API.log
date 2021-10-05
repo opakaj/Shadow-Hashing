@@ -1,0 +1,112 @@
+﻿  api2.cpp
+C:\Users\ADMIN\Desktop\VS Projects\Shadow hashing API\Shadow hashing API\include\SHA_256.h(124,61): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(192,14): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(962,25): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(970,25): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wtypesbase.h(437,26): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wtypesbase.h(462,26): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wtypesbase.h(479,26): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wtypes.h(77,26): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wtypes.h(86,26): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wtypes.h(92,26): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wtypes.h(98,26): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wtypes.h(104,26): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wtypes.h(110,26): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wtypes.h(485,26): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.h(2488,79): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.h(2502,62): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.h(9745,69): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.h(10274,77): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.h(10306,77): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.h(10785,79): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.h(10800,62): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.h(11243,26): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.h(12976,62): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.h(12991,62): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.h(14657,79): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.h(14673,62): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.h(14820,77): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.h(14859,77): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.h(14876,79): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.h(14893,62): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.h(15138,62): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.h(15157,62): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\oaidl.h(563,26): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidlbase.h(7881,79): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidlbase.h(7897,62): error C2872: 'byte': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h(191,23): message : could be 'unsigned char byte'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstddef(29,12): message : or       'std::byte'
+C:\Users\ADMIN\Desktop\C++\feather-master\cinatra\cinatra-d91b912bb63193eb2592732445ebf14c96e78180\include\cinatra\url_encode_decode.hpp(10,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\ADMIN\Desktop\VS Projects\Shadow hashing API\Shadow hashing API\api2.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\ADMIN\Desktop\C++\feather-master\cinatra\cinatra-d91b912bb63193eb2592732445ebf14c96e78180\include\cinatra\render.h(2,1): warning C4005: '_SILENCE_ALL_CXX17_DEPRECATION_WARNINGS': macro redefinition
+C:\Users\ADMIN\Desktop\VS Projects\Shadow hashing API\Shadow hashing API\api2.cpp : message : see previous definition of '_SILENCE_ALL_CXX17_DEPRECATION_WARNINGS'

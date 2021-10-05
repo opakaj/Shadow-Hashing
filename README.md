@@ -1,5 +1,6 @@
 # Shadow-Hashing
 A naive implementation of shadow hashing
+
 Abstract: Efforts to obfuscate data as a means of data security have come a long way with cryptographic technologies since the early days of the internet. Hashing, encryption and tokenization are used to protect different kinds of data but all have some loopholes we’ll look at later. A new solution to the data breach problem is presented in this paper that assumes worst case and has the ability to maintain the integrity of data even after a data breach. Data is first hashed then sent to the shadow server through API calls. The output is hexadecimal characters of unfixed length i.e. “shadow hash” that is returned for storage and has the ability to transition to the original hash (without using a key-value mapping or key storage) with the right authentication. The result is data like passwords, primary account numbers, encryption keys etc. can stay in databases in a “shadow state” and if breached, are useless to hackers yet useful to the real owners.
 
 
